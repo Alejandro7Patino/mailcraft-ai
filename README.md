@@ -18,7 +18,7 @@ MailCraft AI permite al usuario describir su situación en lenguaje natural y, a
 
 ## Cómo usar la app
 
-1. Accedé al [link de la app en Streamlit]()
+1. Accedé al [link de la app en Streamlit](https://mailcraft-ai-7mobspbdrf5dfkjisrfdnm.streamlit.app/)
 2. Ingresá tu API Key de OpenAI en el panel lateral (⚙️)
 3. Completá el formulario: tipo de correo, destinatario, tono e idioma
 4. Describí tu situación con tus propias palabras
